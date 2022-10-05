@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) { 
+    .main-content {
+        margin-top: 1rem;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .flipflop {
+        bottom: 30px;
+        transform: scale(1.15);
+    }
+}
